@@ -3,10 +3,22 @@
   
   <url>
     <loc>/mpatraw.github.io/</loc>
+    <lastmod>2016-06-23T09:42:22-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/mpatraw.github.io/cv/tech/</loc>
+    <loc>/mpatraw.github.io/contact/</loc>
+    <lastmod>2016-06-23T09:42:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mpatraw.github.io/projects/</loc>
+    <lastmod>2016-06-23T09:42:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mpatraw.github.io/resume/</loc>
+    <lastmod>2016-06-23T09:42:22-07:00</lastmod>
   </url>
   
 </urlset>

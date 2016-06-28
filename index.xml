@@ -5,27 +5,120 @@
     <link>mpatraw.github.io/</link>
     <description>Recent content on Michael Patraw</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Michael Patraw all rights reserved.</copyright>
+    <lastBuildDate>Thu, 23 Jun 2016 09:42:22 -0700</lastBuildDate>
     <atom:link href="mpatraw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>/mpatraw.github.io/cv/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>contact</title>
+      <link>/mpatraw.github.io/contact/</link>
+      <pubDate>Thu, 23 Jun 2016 09:42:22 -0700</pubDate>
       
-      <guid>/mpatraw.github.io/cv/tech/</guid>
-      <description>
+      <guid>/mpatraw.github.io/contact/</guid>
+      <description>&lt;p&gt;So you want to chat!&lt;/p&gt;
 
-&lt;h1 id=&#34;big-header&#34;&gt;Big header&lt;/h1&gt;
-
-&lt;h3 id=&#34;header&#34;&gt;Header&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;hi&lt;/li&gt;
-&lt;li&gt;there&lt;/li&gt;
-&lt;li&gt;list&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The best way to reach me is my &lt;a href=&#34;mailto:michaelpatraw@gmail.com&#34;&gt;email&lt;/a&gt;, but I can also be reached on my cell (when I&amp;rsquo;m in the US) 702-606-1790.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>/mpatraw.github.io/projects/</link>
+      <pubDate>Thu, 23 Jun 2016 09:42:22 -0700</pubDate>
+      
+      <guid>/mpatraw.github.io/projects/</guid>
+      <description>&lt;p&gt;Lol&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;google.com&#34;&gt;click here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>/mpatraw.github.io/resume/</link>
+      <pubDate>Thu, 23 Jun 2016 09:42:22 -0700</pubDate>
+      
+      <guid>/mpatraw.github.io/resume/</guid>
+      <description>
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;education-and-technical-expertise&#34;&gt;Education and Technical Expertise&lt;/h1&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;University of Nevada Reno (2008-2011)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+Computer Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h1&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Senior Web Developer (Aug. 2015 ‒ Present)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Clover Valley EMS Solutions&lt;/em&gt;&lt;br /&gt;
+I am currently the senior web developer for a company that sells medical products to emergency services across the west coast.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Freelance Developer (Aug. 2013 ‒ Present)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Many&lt;/em&gt;&lt;br /&gt;
+I have worked on a variety of projects including: Modified a Minivmac emulator to communicate with a Siphon server (required OpenGL); Did the networking code for a realtime multiplay game; Wrote a game engine in C++ focusing on simplicity for first-year CS students; Developed several small personal/business webpages; Developed games for mobile devices using MOAI, Corona, SDL, and libGDX.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Remote Software Developer (Oct. 2015 ‒ May. 2016)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Apartments247&lt;/em&gt;&lt;br /&gt;
+I work on backend web services in Go, database skins in Python using AWS, mobile apps for Android/iOS written in Java/Swift, and do code reviews.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Prep/Line Cook (Aug. 2015 ‒ Oct. 2015)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Jaleo&lt;/em&gt;&lt;br /&gt;
+I prepared food and cook on the line at an award-winning Spanish tapas restaurant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Head of Adventure (Jun. 2014 ‒ Aug. 2014, May. 2015 ‒ Aug. 2015)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Camp Romaca&lt;/em&gt;&lt;br /&gt;
+As the department head of Adventure at a summer camp, I managed a rock wall, zipline, ropes course, and a team of staff to provide the best experience for the campers in a safe environment. This requires daily inspection, and logging equipment. I also did staff scheduling, wrote up purchase orders, and anything else involved with helping run a summer camp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ski Instructor &amp;amp; Race Timer (Dec. 2012 ‒ Apr. 2013, Nov. 2013 ‒ Apr. 2014, Dec. 2014 ‒ Apr. 2015)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Mt. Rose Ski Tahoe&lt;/em&gt;&lt;br /&gt;
+I taught skiing to children and adults, from beginners to advanced. Aside from teaching skiing, I was also responsible with setting up and timing ski races, which involved setting up wires for communicating with the start and finish gates, warming up timing clocks, setting up computers, and testing connections and time drift.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Boys Gymnastics Coach (Nov. 2013 ‒ Jun. 2014)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Flips Gymnastics&lt;/em&gt;&lt;br /&gt;
+I coached boys from the ages of 4 to 12 in gymnastics and basic physical conditioning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Consultant Software Engineer (Jul. 2013 ‒ Aug. 2013)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;ReelTV&lt;/em&gt;&lt;br /&gt;
+I worked on several pieces to a large project: A website, programmed in PHP/Javascript, that interfaced with a MySQL database; A python server which served information from the same database; The clients, which were written in C++/Qt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Software Engineer Intern (Feb. 2010 ‒ Jun. 2012)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Bally Technologies&lt;/em&gt;&lt;br /&gt;
+Throughout my employment, my main task was continual management and debugging of our custom Linux kernel drivers that dealt with USB peripherals. I was also tasked with adding functionality to the custom low-level graphics library, and moved to doing full functioning games and dropping them to our QA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Instructor Assistant (Feb. 2010 ‒ May. 2010)&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Truckee Meadows Community College&lt;/em&gt;&lt;br /&gt;
+Graded homework assignments and taught some nights in CS101 and CS121 courses.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;volunteer-work&#34;&gt;Volunteer Work&lt;/h1&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chess Coach&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Inner City Kids&lt;/em&gt;&lt;br /&gt;
+In Las Vegas I taught chess to inner city kids.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;odds-and-ends&#34;&gt;Odds and Ends&lt;/h1&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;CPR Certified&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;PSIA Level 1 Ski Instructor&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Chess&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+I was the junio state chess champion for the state of Nevada two years in a row, and was in the top 100 in the US for my age 5 years in a row. At my highest, I was ranked 16th in the country. I&amp;rsquo;m always up for a challenge, so if you&amp;rsquo;re down to play you can message me (or see if I&amp;rsquo;m online) &lt;a href=&#34;lichess.org/@/grue&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
